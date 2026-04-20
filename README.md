@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kileysullivan17
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning Python
+- 👀 I’ve been building my Product Management technical skill set for four years, with over 25+ years of client-facing experience. Actively looking to move into a Product Manager, Product Owner, or Associate Product Manager role. 
+- 🌱 I’m currently learning Python, Postman, and Kubernetes, along with Claude Code, n8n, Cursor, and Manus for various projects.
 - 💞️ I’m looking to collaborate on renewable energy projects.
 - 📫 How to reach me: www.kileysullivan.com or kileysullivan17@gmail.com
 
